@@ -1,0 +1,9 @@
+C:\Users\Administrator\Documents\GitHub\QLCHTC\BUS_NGA\bin\Debug\BUS_NGA.dll
+C:\Users\Administrator\Documents\GitHub\QLCHTC\BUS_NGA\bin\Debug\BUS_NGA.pdb
+C:\Users\Administrator\Documents\GitHub\QLCHTC\BUS_NGA\bin\Debug\DAL_NGA.dll
+C:\Users\Administrator\Documents\GitHub\QLCHTC\BUS_NGA\bin\Debug\DTO_NGA.dll
+C:\Users\Administrator\Documents\GitHub\QLCHTC\BUS_NGA\bin\Debug\DAL_NGA.pdb
+C:\Users\Administrator\Documents\GitHub\QLCHTC\BUS_NGA\bin\Debug\DTO_NGA.pdb
+C:\Users\Administrator\Documents\GitHub\QLCHTC\BUS_NGA\obj\Debug\BUS_NGA.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\GitHub\QLCHTC\BUS_NGA\obj\Debug\BUS_NGA.dll
+C:\Users\Administrator\Documents\GitHub\QLCHTC\BUS_NGA\obj\Debug\BUS_NGA.pdb

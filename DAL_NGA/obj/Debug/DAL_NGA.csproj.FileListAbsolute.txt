@@ -1,0 +1,7 @@
+C:\Users\Administrator\Documents\GitHub\QLCHTC\DAL_NGA\bin\Debug\DAL_NGA.dll
+C:\Users\Administrator\Documents\GitHub\QLCHTC\DAL_NGA\bin\Debug\DAL_NGA.pdb
+C:\Users\Administrator\Documents\GitHub\QLCHTC\DAL_NGA\bin\Debug\DTO_NGA.dll
+C:\Users\Administrator\Documents\GitHub\QLCHTC\DAL_NGA\bin\Debug\DTO_NGA.pdb
+C:\Users\Administrator\Documents\GitHub\QLCHTC\DAL_NGA\obj\Debug\DAL_NGA.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\GitHub\QLCHTC\DAL_NGA\obj\Debug\DAL_NGA.dll
+C:\Users\Administrator\Documents\GitHub\QLCHTC\DAL_NGA\obj\Debug\DAL_NGA.pdb
